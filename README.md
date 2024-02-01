@@ -27,7 +27,7 @@ VonAI is a full-stack web application that allows users to generate 4K images fr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sarthak-Seth/vonai.git
+   git clone https://github.com/Varun0607/Von-Ai.git
 2. Navigate to the project directory:
 
    ```bash
@@ -82,8 +82,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, feel free to contact the project creator:
 
-- GitHub: [Sarthak-Seth](https://github.com/Sarthak-Seth)
-- Email: sarthakseth211200@gmail.com
+- GitHub: [Varun Sapra](https://github.com/Varun0607)
+- Email: varunsapra14@gmail.com
 
 Enjoy generating beautiful images with VonAI!
 
