@@ -1,6 +1,6 @@
-# VonAI - Generate 4K Images from Textual Inputs
+# VXAI - Generate 4K Images from Textual Inputs
 
-VonAI is a full-stack web application that allows users to generate 4K images from textual inputs. Users can save these images on their personal wall and download them in JPG format. This project leverages the power of OpenAI's API for image generation.
+VXAI is a full-stack web application that allows users to generate 4K images from textual inputs. Users can save these images on their personal wall and download them in JPG format. This project leverages the power of OpenAI's API for image generation.
 
 ## Tech Stack
 
@@ -27,7 +27,7 @@ VonAI is a full-stack web application that allows users to generate 4K images fr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Varun0607/Von-Ai.git
+   git clone https://github.com/Varun0607/VX-Ai.git
 2. Navigate to the project directory:
 
    ```bash
@@ -85,7 +85,7 @@ If you have any questions or feedback, feel free to contact the project creator:
 - GitHub: [Varun Sapra](https://github.com/Varun0607)
 - Email: varunsapra14@gmail.com
 
-Enjoy generating beautiful images with VonAI!
+Enjoy generating beautiful images with VXAI!
 
 
 
